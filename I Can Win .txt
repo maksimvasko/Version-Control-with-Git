@@ -1,0 +1,22 @@
+$ SSH-keygen -t rsa -C "7767606@gmail.com"
+
+$ git config --global user.name "Maksim Vasko"
+
+$ git config --global user.email "7767606@gmail.com"
+
+$ git config --global user.name
+
+$ git config --global user.email
+
+$ cd /c/Users/x/GIT
+
+$ pwd
+
+$ git clone git@github.com:maksimvasko/Version-Control-with-Git.git
+
+$ ls
+
+$ cd Version-Control-with-Git/
+
+$ git remote -v
+
